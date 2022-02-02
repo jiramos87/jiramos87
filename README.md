@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, HTML/CSS, Python/Flask, SQLite, SQLAlchemy**
 
-- 📫 How to reach me **jiramos87@gmail.com**
+- 📫 Reach me at **jiramos87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
