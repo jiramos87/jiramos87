@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Futstarter](https://github.com/jiramos87/futstarter-backend)
 
-- 🌱 I’m currently learning **Node.js/Express, GraphQL, Redux, React Native**
+- 🌱 I’m currently learning **Node.js/Express, GraphQL, Redux, React Native, Django**
 
 - 💬 Ask me about **React.js, HTML/CSS, Python/Flask, SQLite, SQLAlchemy**
 
