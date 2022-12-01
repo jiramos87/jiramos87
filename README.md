@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Javier Ramos</h1>
-<h3 align="center">A dedicated full stack developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Javier Ramos, a trained Physics Major, professional trombonist and software developer</h1>
 
-- 🔭 I’m currently working on [Futstarter](https://github.com/jiramos87/futstarter-backend)
+- 🔭 I’m currently working as a Backend Developer at [Pinflag](https://www.pinflag.cl/)
 
-- 🌱 I’m learning or wanting to learn **Node.js/Express, GraphQL, Redux, React Native, Django, Docker, AWS**
-
-- 💬 Ask me about **React.js, HTML/CSS, Python/Flask, SQLite, SQLAlchemy**
+- 🌱 My current stack is Node.js/Express, Sequelize, Postgresql, AWS S3, Jest, Git, Swagger, React and Redux.
 
 - 📫 Reach me at **jiramos87@gmail.com**
 
