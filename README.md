@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Javier Ramos, a Physics Major, professional trombonist and software developer</h1>
+<h1 align="center">Hi 👋, I'm Javier Ramos, a Physics Major, former professional trombonist and also a software developer</h1>
 
 - 🔭 I’m currently working as a Backend Developer at [Pinflag](https://www.pinflag.cl/)
 
-- 🌱 My current stack is Node.js/Express, Sequelize, Postgresql, AWS S3, Jest, Git, Swagger, React and Redux.
+- 🌱 My current stack is Node.js/Express, Serverless, Sequelize, Postgresql, AWS, Jest, Git, Swagger, React and Next.js.
 
 - 📫 Reach me at **jiramos87@gmail.com**
 
